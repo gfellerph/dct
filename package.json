@@ -1,0 +1,15 @@
+{
+  "name": "dct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "engines": {
+    "node": "16",
+    "pnpm": "7"
+  },
+  "license": "ISC"
+}
